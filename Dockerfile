@@ -1,4 +1,4 @@
-# VERSION 1.4.5
+# VERSION 0.0.1
 FROM keboola/base-php56
 MAINTAINER Ondrej Vana <ondrej.vana@keboola.com>
 
